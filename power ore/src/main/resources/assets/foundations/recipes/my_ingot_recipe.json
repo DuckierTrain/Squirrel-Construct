@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i  ",
+    "   ",
+    "   "
+    
+  ],
+  "key": {
+    "i": {
+        "item": "foundations:lucky_block"
+    }
+    
+   
+     },
+  "result": {
+    "item": "foundations:my_ingot",
+    "count": 9 
+    
+  }
+}
