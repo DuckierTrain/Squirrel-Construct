@@ -16,7 +16,7 @@ if "%DIRNAME%" == "" set DIRNAME=.
 set APP_BASE_NAME=%~n0
 set APP_HOME=%DIRNAME%
 
-set JAVA_EXE=C:\Program Files\Java\jdk1.8.0_201\bin\java.exe
+set JAVA_EXE=C:\Program Files\Java\jdk1.8.0_191\bin\java.exe
 "%JAVA_EXE%" -version >NUL 2>&1
 if "%ERRORLEVEL%" == "0" goto init
 

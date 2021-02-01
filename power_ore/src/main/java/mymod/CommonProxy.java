@@ -28,12 +28,12 @@ public class CommonProxy {
     	Codakid.registerItem(Main.myPickaxe2, "my_pickaxe2");
     	Codakid.registerItem(Main.myPickaxe, "my_pickaxe");
     	Codakid.registerBlock(Main.myOre, "my_ore");
-    	Codakid.registerItem(Main.myIngot, "my_ingot");
-    	Codakid.registerItem(Main.myIngot2, "my_ingot2");
-	    Codakid.registerBlock(Main.myOre2, "my_ore2");
+    	Codakid.registerItem(Main.myIngot, "my_Ingot");
+    	Codakid.registerItem(Main.myIngot2, "my_Ingot2");
+	    Codakid.registerBlock(Main.myOre2, "my_Ore2");
 	    Codakid.registerItem(Main.mySword, "my_Sword");
-	    Codakid.registerBlock(Main.LuckyBlock, "lucky_block");
-        Codakid.registerBlock(Main.LuckyBlock2, "lucky_block2");
+	    Codakid.registerBlock(Main.LuckyBlock, "Lucky_Block");
+        Codakid.registerBlock(Main.LuckyBlock2, "Lucky_Block2");
 	   
     	
     	
